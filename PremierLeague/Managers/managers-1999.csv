@@ -1,0 +1,21 @@
+manager_name,manager_age,manager_avarage_time,manager_matches,manager_wins,manager_draws,manager_losses,manager_points,manager_ppm,manager_teams_coached,manager_avarage_ppm,manager_total_matches,manager_total_transfer,Name
+Erik ten Hag,53,2.14 Years,62,42,8,12,134,2.16,11,0.9181818181818183,499,0,Man Utd
+Mikel Arteta,41,3.52 Years,49,32,7,10,103,2.10,3,0.6366666666666666,179,€26.70m,Arsenal
+Sam Allardyce,68,1.59 Years,4,0,1,3,1,0.25,18,0.8122222222222223,829,€298k,Leeds
+Jürgen Klopp,56,7.35 Years,52,27,11,14,92,1.77,4,1.365,1018,0,Liverpool
+Frank Lampard,45,0.95 Years,34,5,8,21,23,0.68,5,0.966,196,€16.00m,Chelsea
+Unai Emery,51,1.97 Years,44,26,7,11,85,1.93,10,1.583,853,0,Aston Villa
+Tony Mowbray,59,2.06 Years,45,18,14,13,68,1.51,10,1.1400000000000001,822,€1.15m,Sunderland
+Dean Smith,52,2.44 Years,34,13,8,13,47,1.38,6,1.0666666666666667,605,€137k,Leicester
+David Moyes,60,3.23 Years,57,27,8,22,89,1.56,8,1.2075,1051,€47k,West Ham
+Ryan Mason,32,0.19 Years,6,2,1,3,7,1.17,10,0.288,13,€15.40m,Tottenham
+Eddie Howe,45,3.30 Years,46,25,14,7,89,1.93,4,1.58,617,€600k,Newcastle
+Michael Carrick,41,0.35 Years,33,18,5,10,59,1.79,4,1.03,36,€31.30m,Middlesbrough
+Sean Dyche,51,3.22 Years,18,5,6,7,21,1.17,6,0.6466666666666666,492,€210k,Everton
+Mark Robins,53,2.30 Years,51,19,17,15,74,1.45,8,1.07625,710,€2.25m,Coventry
+Rubén Sellés,40,0.20 Years,18,3,4,11,13,0.72,24,0.2683333333333333,18,0,Southampton
+Paul Warne,50,2.19 Years,56,24,17,15,89,1.59,5,0.6980000000000001,338,€35k,Derby
+Mark Hughes,59,2.35 Years,55,23,16,16,85,1.55,8,1.31625,674,€7.80m,Bradford
+Mark Jackson,45,2.01 Years,25,6,9,10,27,1.08,8,0.48250000000000004,80,0,Wimbledon FC
+Darren Moore,49,1.63 Years,60,36,13,11,121,2.02,6,0.8416666666666667,255,€2.39m,Sheff Wed
+Chris Wilder,55,2.86 Years,23,5,7,11,22,0.96,9,0.81,595,€420k,Watford
